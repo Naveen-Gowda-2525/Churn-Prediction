@@ -19,7 +19,7 @@ def loadPage():
 	return render_template('home.html', query="")
 
 
-@app.route("/", methods=['POST'])
+@app.route("/predict", methods=['POST'])
 def predict():
     
     '''
