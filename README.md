@@ -4,7 +4,9 @@
 The business objective was to predict whether the customers are likely to churn or not. Here a churned customer means he provides less or zero revenue and increases the competitor market share. The dataset had 7043 rows and 24 columns.
 
 For EDA, please refer to : Churn Analysis - EDA.ipynb
+
 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
+
 For Model Deployment- app.py
 ## API Reference
 
